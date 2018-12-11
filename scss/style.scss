@@ -550,7 +550,13 @@ section {
 .feature h5 {
     padding-top: 3px;
 }
-
+.hovereffect-title{
+	position: static;
+}
+.external-links{
+	padding-top:25px;
+	position: relative;
+}
 .fact-icon {
     color: $primary;
     font-size: 26px;
