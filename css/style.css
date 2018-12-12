@@ -1918,6 +1918,14 @@ hr, .border-color {
   transition: all .5s ease-in-out;
   padding: 10px;
 }
+.hovereffect-title{
+	position: static;
+}
+
+.external-links{
+	padding-top:25px;
+	position: relative;
+}
 .external-links {
 	position: absolute;
 	top: 50%;
