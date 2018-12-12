@@ -1877,6 +1877,10 @@ hr, .border-color {
   margin-bottom: 0 !important;
 }
 
+.hovereffect-title{
+	position: static;
+}
+
 .hovereffect {
   width: 100%;
   height: 100%;
@@ -1918,19 +1922,18 @@ hr, .border-color {
   transition: all .5s ease-in-out;
   padding: 10px;
 }
-.hovereffect-title{
-	position: static;
-}
 
 .external-links{
 	padding-top:25px;
 	position: relative;
 }
+
 .external-links {
-	position: absolute;
+	/*position: absolute;*/
 	top: 50%;
 	width: 100%;
 }
+
 .external-links a {
 	text-align: center;
 	margin: 10px auto;
